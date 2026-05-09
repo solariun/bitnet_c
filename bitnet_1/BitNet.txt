@@ -1,0 +1,41 @@
+
+NMSE is 12.162 on Training Set and 43.252 on Test Set - saving Weights ...
+NMSE is 0.246 on Training Set and 0.919 on Test Set - saving Weights ...
+NMSE is 0.200 on Training Set and 0.333 on Test Set - saving Weights ...
+NMSE is 0.162 on Training Set and 0.272 on Test Set - saving Weights ...
+NMSE is 0.215 on Training Set and 0.010 on Test Set - saving Weights ...
+NMSE is 0.167 on Training Set and 0.283 on Test Set - stopping Training and restoring Weights ...
+NMSE is 0.167 on Training Set and 0.283 on Test Set
+
+
+Year    Solar Flux    Open-Loop Prediction    Closed-Loop Prediction
+
+2131       0.100                   0.174                     0.174
+2132       0.100                   0.174                     0.190
+2133       0.100                   0.174                     0.212
+2134       0.100                   0.174                     0.236
+2135       0.100                   0.174                     0.253
+2136       0.100                   0.174                     0.290
+2137       0.100                   0.174                     0.317
+2138       0.100                   0.174                     0.361
+2139       0.100                   0.174                     0.397
+2140       0.100                   0.174                     0.433
+2141       0.100                   0.174                     0.503
+2142       0.100                   0.174                     0.551
+2143       0.100                   0.174                     0.606
+2144       0.100                   0.174                     0.658
+2145       0.100                   0.174                     0.710
+2146       0.100                   0.174                     0.754
+2147       0.100                   0.174                     0.782
+2148       0.100                   0.174                     0.823
+2149       0.100                   0.174                     0.833
+2150       0.100                   0.174                     0.842
+2151       0.100                   0.174                     0.847
+2152       0.100                   0.174                     0.845
+2153       0.100                   0.174                     0.842
+2154       0.100                   0.174                     0.831
+2155       0.100                   0.174                     0.823
+2156       0.100                   0.174                     0.802
+2157       0.100                   0.174                     0.773
+2158       0.100                   0.174                     0.753
+2159       0.100                   0.174                     0.713
