@@ -1,0 +1,20 @@
+[
+  {
+    "role": "user",
+    "content": "read the code in filesystem, I want you to research how to implement a true bit net, not a ternary a true 1 / 0 bit so we can hole 8 neurons on each byte, please change the code for it by creating another srouce code form the existing and updating the make to work with that. make sure that the final code uses bit math, de documentation must be written in a paper style with full content exaplnation ready for being published, please test it till done"
+  },
+  {
+    "role": "assistant",
+    "content": "I'll help you implement a true bit net with 8 neurons per byte using bit math. Let me first examine the existing filesystem code to understand the current implementation.\n\n",
+    "tool_calls": [
+      {
+        "id": "call_0",
+        "type": "function",
+        "function": {
+          "name": "tool_lookup",
+          "arguments": "{}"
+        }
+      }
+    ]
+  }
+]
